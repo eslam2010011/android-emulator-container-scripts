@@ -1,10 +1,10 @@
 {
-    "apiKey": "AIzaSyApOjVnuRBNO7x5UP-Cq7VSzcylCMjDBng",
-    "authDomain": "android-emulator-webrtc-demo.firebaseapp.com",
-    "databaseURL": "https://android-emulator-webrtc-demo.firebaseio.com",
-    "projectId": "android-emulator-webrtc-demo",
-    "storageBucket": "android-emulator-webrtc-demo.appspot.com",
-    "messagingSenderId": "431559312508",
-    "appId": "1:431559312508:web:c9aaa2a9ac2f48657e35f9",
+    "apiKey": "AIzaSyCXgVDiw_28bkAzyywF0A5_engq7_aYGEY",
+    "authDomain": "moddd-2f595.firebaseapp.com",
+    "databaseURL": "https://moddd-2f595.firebaseio.com",
+    "projectId": "moddd-2f595",
+    "storageBucket": "moddd-2f595.appspot.com",
+    "messagingSenderId": "226521413934",
+    "appId": "1:226521413934:web:d45725e7b5b82e686322bf",
     "measurementId": "G-MTCT6N00FV"
 }
