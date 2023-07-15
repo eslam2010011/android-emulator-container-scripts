@@ -58,7 +58,7 @@ static_resources:
                 firebase_jwt:
                   issuer: https://securetoken.google.com/android-emulator-webrtc-demo
                   audiences:
-                  - android-emulator-webrtc-demo
+                  - moddd-2f595
                   remote_jwks:
                     http_uri:
                       uri: https://www.googleapis.com/robot/v1/metadata/x509/securetoken@system.gserviceaccount.com
